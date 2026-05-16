@@ -1,8 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>QML/MainView.qml</file>
-        <file>QML/RadioView.qml</file>
-        <file>QML/ExpertView.qml</file>
         <file>QML/texts/qmldir</file>
         <file>QML/texts/TextStyle.qml</file>
         <file>QML/texts/TextTitle.qml</file>
@@ -116,7 +114,8 @@
         <file>QML/expertviews/TextOutputView.qml</file>
         <file>QML/expertviews/RawRecorder.qml</file>
         <file>QML/components/ViewBaseFrame.qml</file>
-        <file>QML/MotView.qml</file>
-        <file>QML/GeneralView.qml</file>
+        <file>QML/BottomStatusBar.qml</file>
+        <file>QML/CenterInfo.qml</file>
+        <file>QML/TopCarousel.qml</file>
     </qresource>
 </RCC>
